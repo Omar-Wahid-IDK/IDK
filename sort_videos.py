@@ -20,6 +20,8 @@ SORTED_FOLDERS = {
     "etc": r"E:\Media Player\Videos\Youtube\Etc",
     "solo leveling": r"E:\Media Player\Videos\Anime\Solo Leveling",#--------------- Anime
     "ao no hako": r"E:\Media Player\Videos\Anime\Blue Box",
+    "classroom of the eliete": r"E:\Media Player\Videos\Anime\Classroom Of The Eliete",
+    "more than a married cupple, but not lovers": r"E:\Media Player\Videos\Anime\More Than A Married Cupple, But Not Lovers",
     "class no daikirai na joshi to kekkon suru koto ni natta": r"E:\Media Player\Videos\Anime\I'm Getting Married to a Girl I Hate in My Class"
 }
 
