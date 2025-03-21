@@ -4,7 +4,7 @@ import shutil
 # --------------------------------------------------------------------------------- Folders
 VID_FOLDER = r"C:\Users\Omar\Downloads\Video"
 SORTED_FOLDERS = {
-    "ar12": r"E:\Media Player\Videos\Youtube\AR12",#-------e----------------------- Videos
+    "ar12": r"E:\Media Player\Videos\Youtube\AR12",#------------------------------- Videos
     "mrwhosetheboss": r"E:\Media Player\Videos\Youtube\Mrwhosetheboss",
     "scrapman": r"E:\Media Player\Videos\Youtube\Scrap Man",
     "kangaming": r"E:\Media Player\Videos\Youtube\Kan Gaming",
