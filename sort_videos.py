@@ -7,6 +7,13 @@ SORTED_FOLDERS = {
     "ar12": r"E:\Media Player\Videos\Youtube\AR12",#------------------------------- Videos
     "mrwhosetheboss": r"E:\Media Player\Videos\Youtube\Mrwhosetheboss",
     "finoggin": r"E:\Media Player\Videos\Youtube\Finoggin",
+    "crainer": r"E:\Media Player\Videos\Youtube\Crainer",
+    "camodogaming": r"E:\Media Player\Videos\Youtube\Camodo Gaming",
+    "bigtime": r"E:\Media Player\Videos\Youtube\Big Time",
+    "slogo": r"E:\Media Player\Videos\Youtube\Slogo",
+    "dount": r"E:\Media Player\Videos\Youtube\Dount",
+    "mrbeast": r"E:\Media Player\Videos\Youtube\Mr Beast",
+    "darkviperau": r"E:\Media Player\Videos\Youtube\Dark Viper Au",
     "scrapman": r"E:\Media Player\Videos\Youtube\Scrap Man",
     "kangaming": r"E:\Media Player\Videos\Youtube\Kan Gaming",
     "matarmstrong": r"E:\Media Player\Videos\Youtube\Mat Armstrong",
