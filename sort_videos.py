@@ -4,19 +4,19 @@ import shutil
 # --------------------------------------------------------------------------------- Folders
 VID_FOLDER = r"C:\Users\Omar\Downloads\Video"
 SORTED_FOLDERS = {
-    "ar12": r"E:\Media Player\Videos\Youtube\AR12",#------------------------------- Videos
+    "ar12gaming": r"E:\Media Player\Videos\Youtube\AR12",#------------------------------- Videos
     "mrwhosetheboss": r"E:\Media Player\Videos\Youtube\Mrwhosetheboss",
     "finoggin": r"E:\Media Player\Videos\Youtube\Finoggin",
     "crainer": r"E:\Media Player\Videos\Youtube\Crainer",
-    "camodogaming": r"E:\Media Player\Videos\Youtube\Camodo Gaming",
+    "camodo gaming": r"E:\Media Player\Videos\Youtube\Camodo Gaming",
     "bigtime": r"E:\Media Player\Videos\Youtube\Big Time",
     "slogo": r"E:\Media Player\Videos\Youtube\Slogo",
     "dount": r"E:\Media Player\Videos\Youtube\Dount",
     "mrbeast": r"E:\Media Player\Videos\Youtube\Mr Beast",
-    "darkviperau": r"E:\Media Player\Videos\Youtube\Dark Viper Au",
+    "dark viper au": r"E:\Media Player\Videos\Youtube\Dark Viper Au",
     "scrapman": r"E:\Media Player\Videos\Youtube\Scrap Man",
     "kangaming": r"E:\Media Player\Videos\Youtube\Kan Gaming",
-    "matarmstrong": r"E:\Media Player\Videos\Youtube\Mat Armstrong",
+    "mat armstrong": r"E:\Media Player\Videos\Youtube\Mat Armstrong",
     "etc": r"E:\Media Player\Videos\Youtube\Etc",
     "solo leveling": r"E:\Media Player\Videos\Anime\Solo Leveling",#--------------- Anime
     "ao no hako": r"E:\Media Player\Videos\Anime\Blue Box",
