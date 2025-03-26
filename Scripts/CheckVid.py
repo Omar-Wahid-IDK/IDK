@@ -32,3 +32,4 @@ for folder in os.listdir(parent_folder):
             new_folder_path = os.path.join(parent_folder, new_folder_name)
             shutil.move(folder_path, new_folder_path)
             print(f"Unmarked: {new_folder_name}")
+    
